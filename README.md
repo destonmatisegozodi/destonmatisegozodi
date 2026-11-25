@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm destonmatisegozodi.
 
-<!--
-**destonmatisegozodi/destonmatisegozodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Somewhere between engineering and software development.
 
-Here are some ideas to get you started:
+I'm an Automation Engineering student exploring the world of programming, software development, and IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+- Web Development
+- Software Engineering
+- IoT & Automation
+
+---
+
+*Learning to build, building to learn.*
